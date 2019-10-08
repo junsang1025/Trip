@@ -1,2 +1,0 @@
-# Trip
-Created with CodeSandbox
